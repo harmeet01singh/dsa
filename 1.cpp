@@ -2,9 +2,9 @@
 #include <iostream>
 using namespace std;
 int main() {
-	int num;
-	cin >> num;    //Reading input from STDIN
-	for(int i = 0; i < num; i++) {
+	int t;
+	cin >> t;    //Reading input from STDIN
+	while(t--) {
 		int N;
 		cin >> N;
 		for(int j = 0; j < N; j++) {
