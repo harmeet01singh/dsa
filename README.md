@@ -12,3 +12,4 @@ Platforms Abbr.:
 2. [HR [String][Easy] - Strings Tutorial](https://www.hackerrank.com/challenges/c-tutorial-strings/problem?isFullScreen=true)
 3. [GG [String][Easy] - Reverse String](https://practice.geeksforgeeks.org/problems/reverse-a-string/1)
 4. [CC [String][Easy/Medium] - STONES](https://www.codechef.com/problems/STONES)
+5. [CC [Array][Easy/Medium] - CARVANS](https://www.codechef.com/LRNDSA01/problems/CARVANS)
