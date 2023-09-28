@@ -5,6 +5,7 @@ Platforms Abbr.:
 2. HR: HackerRank
 3. LC: LeetCode
 4. GG: GeeksForGeeks
+5. CC: Code Chef
 
 ## Problems
 1. [HE [Loops][Easy] - Friend's Relationship](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/friends-relationship-1/)
