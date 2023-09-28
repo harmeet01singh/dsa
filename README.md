@@ -13,3 +13,12 @@ Platforms Abbr.:
 3. [GG [String][Easy] - Reverse String](https://practice.geeksforgeeks.org/problems/reverse-a-string/1)
 4. [CC [String][Easy/Medium] - STONES](https://www.codechef.com/problems/STONES)
 5. [CC [Array][Easy/Medium] - CARVANS](https://www.codechef.com/LRNDSA01/problems/CARVANS)
+
+## Notes
+1. Sizes
+    1. int: 10<sup>9</sup>
+    1. long int: 10<sup>12</sup>
+    1. long long int: 10<sup>18</sup>
+1. Limitations
+    1. Local Array: 10<sup>5</sup>
+    1. Global Array: 10<sup>7</sup>
