@@ -8,11 +8,11 @@ Platforms Abbr.:
 5. CC: Code Chef
 
 ## Problems
-1. [HE [Loops][Easy] - Friend's Relationship](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/friends-relationship-1/)
-2. [HR [String][Easy] - Strings Tutorial](https://www.hackerrank.com/challenges/c-tutorial-strings/problem?isFullScreen=true)
-3. [GG [String][Easy] - Reverse String](https://practice.geeksforgeeks.org/problems/reverse-a-string/1)
-4. [CC [String][Easy/Medium] - STONES](https://www.codechef.com/problems/STONES)
-5. [CC [Array][Easy/Medium] - CARVANS](https://www.codechef.com/LRNDSA01/problems/CARVANS)
+1. [HE [Loops][Easy] - Friend's Relationship](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/friends-relationship-1/) | [Code](1.cpp)
+2. [HR [String][Easy] - Strings Tutorial](https://www.hackerrank.com/challenges/c-tutorial-strings/problem?isFullScreen=true) | [Code](2.cpp)
+3. [GG [String][Easy] - Reverse String](https://practice.geeksforgeeks.org/problems/reverse-a-string/1) | [Code](3.cpp)
+4. [CC [String][Easy/Medium] - STONES](https://www.codechef.com/problems/STONES) | [Code](4.cpp)
+5. [CC [Array][Easy/Medium] - CARVANS](https://www.codechef.com/LRNDSA01/problems/CARVANS) | [Code](5.cpp)
 
 ## Notes
 1. Sizes
