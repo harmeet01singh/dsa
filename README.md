@@ -13,6 +13,7 @@ Platforms Abbr.:
 3. [GG [String][Easy] - Reverse String](https://practice.geeksforgeeks.org/problems/reverse-a-string/1) | [Code](3.cpp)
 4. [CC [String][Easy/Medium] - STONES](https://www.codechef.com/problems/STONES) | [Code](4.cpp)
 5. [CC [Array][Easy/Medium] - CARVANS](https://www.codechef.com/LRNDSA01/problems/CARVANS) | [Code](5.cpp)
+6. [HE [Array][Easy] - Jiya's Sequence](https://www.hackerearth.com/problem/algorithm/jiyas-sequence/) | [Code](6.cpp)
 
 ## Notes
 1. Sizes
